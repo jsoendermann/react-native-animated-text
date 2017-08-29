@@ -1,0 +1,31 @@
+{
+  "name": "react-native-animated-text",
+  "version": "0.0.2",
+  "description": "A label that animates when you change its content.",
+  "author": {
+    "name": "Jan Soendermann",
+    "email": "jan.soendermann+npm@gmail.com"
+  },
+  "homepage": "https://github.com/jsoendermann/react-native-animated-text",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsoendermann/react-native-animated-text.git"
+  },
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.47.8",
+    "prettier": "^1.6.0",
+    "typescript": "^2.4.2"
+  }
+}

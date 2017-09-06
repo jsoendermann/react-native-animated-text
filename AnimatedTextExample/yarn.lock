@@ -3240,9 +3240,9 @@ react-devtools-core@2.3.1:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-animated-text@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-animated-text/-/react-native-animated-text-0.0.2.tgz#04314a49f40497ea0c833fe3fe846f99bffa774c"
+react-native-animated-text@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/react-native-animated-text/-/react-native-animated-text-0.0.4.tgz#13bc202c0059def7fb1a349e916256085d89d013"
 
 react-native@0.47.2:
   version "0.47.2"

@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-text",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A label that animates when you change its content.",
   "author": {
     "name": "Jan Soendermann",
